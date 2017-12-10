@@ -1,1 +1,1 @@
-worker: python selfbot.py
+worker: python launcher.py
