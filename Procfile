@@ -1,1 +1,1 @@
-worker: python startRed.bat
+worker: python red.py
